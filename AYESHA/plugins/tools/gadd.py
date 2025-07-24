@@ -2,7 +2,7 @@ import asyncio
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-OWNERS = "7668520999"
+OWNERS = "8051082678"
 from AYESHA import app
 from AYESHA.utils.database import add_served_chat, get_assistant
 
